@@ -47,3 +47,11 @@ Recommendations are intended for career guidance. Match scores are estimates, no
 
 ## Author
 Jnanavi G Umesh
+
+## Demonstration Video
+
+Watch the project demonstration, including resume upload, skill extraction, job recommendations, skill-gap analysis, learning roadmap, and report generation.
+
+**[Watch the AI Resume Analyzer Demo](https://drive.google.com/file/d/1kQ7hyH6ojw4jC-l1lLzUnEID2y41w1QE/view?usp=sharing)**
+
+Note: The demonstration uses a sample resume with personal information removed.
