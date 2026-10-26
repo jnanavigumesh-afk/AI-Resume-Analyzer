@@ -1,0 +1,7 @@
+
+job_role,required_skills
+Cybersecurity Analyst,"Python,Network Security,Linux,Windows,Computer Networks,SIEM,Incident Response"
+Vulnerability Assessment Analyst,"Python,Vulnerability Assessment,Penetration Testing,Linux,Windows,Computer Networks"
+Security Engineer,"Python,Network Security,Firewalls,Linux,Windows,Cryptography,Computer Networks"
+Data Analyst,"Python,SQL,Pandas,NumPy,Database Management Systems"
+Machine Learning Engineer,"Python,Machine Learning,Scikit-learn,Pandas,NumPy,Algorithms"

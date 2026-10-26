@@ -1,0 +1,40 @@
+
+skill,category
+Python,Programming
+C,Programming
+C++,Programming
+Java,Programming
+SQL,Database
+HTML,Web Development
+CSS,Web Development
+JavaScript,Web Development
+Data Structures,Computer Science
+Algorithms,Computer Science
+Pandas,Data Science
+NumPy,Data Science
+Scikit-learn,Machine Learning
+Machine Learning,Machine Learning
+Deep Learning,Machine Learning
+NLP,AI
+Vulnerability Assessment,Cybersecurity
+Penetration Testing,Cybersecurity
+Network Security,Cybersecurity
+Cryptography,Cybersecurity
+Linux,Operating Systems
+Windows,Operating Systems
+Kali Linux,Cybersecurity Tools
+Ubuntu,Operating Systems
+Wireshark,Cybersecurity Tools
+Nmap,Cybersecurity Tools
+Burp Suite,Cybersecurity Tools
+OWASP,Cybersecurity
+Firewalls,Network Security
+Incident Response,Cybersecurity
+SIEM,Cybersecurity Tools
+Git,Development Tools
+Docker,Cloud and DevOps
+Cloud Computing,Cloud
+IoT,Emerging Technology
+Database Management Systems,Database
+Operating Systems,Computer Science
+Computer Networks,Networking

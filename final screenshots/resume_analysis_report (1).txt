@@ -1,0 +1,46 @@
+AI RESUME ANALYSIS REPORT
+
+Resume file: jnana Resume.pdf
+
+DETECTED SKILLS:
+- Python (Programming)
+- Java (Programming)
+- Data Structures (Computer Science)
+- Algorithms (Computer Science)
+- Machine Learning (Machine Learning)
+- Vulnerability Assessment (Cybersecurity)
+- Network Security (Cybersecurity)
+- Cryptography (Cybersecurity)
+- Linux (Operating Systems)
+- Windows (Operating Systems)
+- Kali Linux (Cybersecurity Tools)
+- Ubuntu (Operating Systems)
+- Wireshark (Cybersecurity Tools)
+- Nmap (Cybersecurity Tools)
+- Burp Suite (Cybersecurity Tools)
+- Incident Response (Cybersecurity)
+- IoT (Emerging Technology)
+- Database Management Systems (Database)
+- Operating Systems (Computer Science)
+- Computer Networks (Networking)
+
+TOP JOB RECOMMENDATIONS:
+- Cybersecurity Analyst: 39.23% similarity
+- Security Engineer: 35.56% similarity
+- Vulnerability Assessment Analyst: 30.27% similarity
+
+SKILL GAP FOR: Cybersecurity Analyst
+
+MATCHED SKILLS:
+- Python
+- Network Security
+- Linux
+- Windows
+- Computer Networks
+- Incident Response
+
+SKILLS NOT MENTIONED:
+- SIEM
+
+LEARNING ROADMAP:
+- Learn the fundamentals of SIEM.
